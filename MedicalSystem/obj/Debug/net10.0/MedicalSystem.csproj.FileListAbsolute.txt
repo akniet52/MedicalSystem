@@ -1,0 +1,16 @@
+C:\Users\bekja\source\repos\MedicalSystem1\MedicalSystem\bin\Debug\net10.0\MedicalSystem.exe
+C:\Users\bekja\source\repos\MedicalSystem1\MedicalSystem\bin\Debug\net10.0\MedicalSystem.deps.json
+C:\Users\bekja\source\repos\MedicalSystem1\MedicalSystem\bin\Debug\net10.0\MedicalSystem.runtimeconfig.json
+C:\Users\bekja\source\repos\MedicalSystem1\MedicalSystem\bin\Debug\net10.0\MedicalSystem.dll
+C:\Users\bekja\source\repos\MedicalSystem1\MedicalSystem\bin\Debug\net10.0\MedicalSystem.pdb
+C:\Users\bekja\source\repos\MedicalSystem1\MedicalSystem\obj\Debug\net10.0\MedicalSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bekja\source\repos\MedicalSystem1\MedicalSystem\obj\Debug\net10.0\MedicalSystem.AssemblyInfoInputs.cache
+C:\Users\bekja\source\repos\MedicalSystem1\MedicalSystem\obj\Debug\net10.0\MedicalSystem.AssemblyInfo.cs
+C:\Users\bekja\source\repos\MedicalSystem1\MedicalSystem\obj\Debug\net10.0\MedicalSystem.csproj.CoreCompileInputs.cache
+C:\Users\bekja\source\repos\MedicalSystem1\MedicalSystem\obj\Debug\net10.0\MedicalSystem.sourcelink.json
+C:\Users\bekja\source\repos\MedicalSystem1\MedicalSystem\obj\Debug\net10.0\MedicalSystem.dll
+C:\Users\bekja\source\repos\MedicalSystem1\MedicalSystem\obj\Debug\net10.0\refint\MedicalSystem.dll
+C:\Users\bekja\source\repos\MedicalSystem1\MedicalSystem\obj\Debug\net10.0\MedicalSystem.pdb
+C:\Users\bekja\source\repos\MedicalSystem1\MedicalSystem\obj\Debug\net10.0\MedicalSystem.genruntimeconfig.cache
+C:\Users\bekja\source\repos\MedicalSystem1\MedicalSystem\obj\Debug\net10.0\ref\MedicalSystem.dll
+C:\Users\bekja\source\repos\MedicalSystem1\MedicalSystem\obj\Debug\net10.0\MedicalS.3481D4AF.Up2Date
